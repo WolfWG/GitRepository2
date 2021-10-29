@@ -7,5 +7,6 @@ package com.softeem.wolf.pojo;
 public class Test02 {
     public static void main(String[] args) {
         System.out.println("我是Test02的测试类.....");
+        System.out.println("aaaaaaaa");
     }
 }
