@@ -7,4 +7,5 @@ package com.softeem.wolf.pojo;
 public class StudentClass {
     private Integer classId;
     private String name;
+    private Double height;
 }
